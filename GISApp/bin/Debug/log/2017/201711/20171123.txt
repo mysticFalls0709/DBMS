@@ -68,3 +68,17 @@
 日志级别：  INFO  
 描述：木子lee login success
  
+
+ 
+记录时间：2017-11-23 16:33:53,460 
+线程ID:[9] 
+日志级别：  INFO  
+描述：start application
+ 
+
+ 
+记录时间：2017-11-23 16:35:27,008 
+线程ID:[10] 
+日志级别：  INFO  
+描述：start application
+ 
